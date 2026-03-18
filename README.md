@@ -20,10 +20,12 @@
 Showing: 
 
 - Default emoji on your system
-- Noto Emoji
-- Noto Color Emoji
+- [Noto Emoji](https://fonts.google.com/noto/specimen/Noto+Emoji) (Google Fonts link)
+- [Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Color+Emoji) (Google Fonts link)
 
-The emojis were copy-pasted from https://emojibase.dev/emojis?
+The emojis were copy-pasted from [emojibase.dev](https://emojibase.dev/emojis?)
+
+You can also view all the emojis [in a Figma community file](https://www.figma.com/community/file/1616200519328275790/noto-emoji-bw).
 
 ## Face Emojis
 
