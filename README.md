@@ -1,7 +1,7 @@
 # Listing all emojis
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
 
   .noto-emoji-font,.noto-emoji {
