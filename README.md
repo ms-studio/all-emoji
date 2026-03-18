@@ -25,7 +25,7 @@ Showing:
 
 The emojis were copy-pasted from [emojibase.dev](https://emojibase.dev/emojis?)
 
-You can also view all the emojis [in a Figma community file](https://www.figma.com/community/file/1616200519328275790/noto-emoji-bw).
+You can also view all the emojis [in a Figma file](https://www.figma.com/design/Vh0bC9xcB6eHIMmwtnbIgE/Noto-Emoji-%E2%80%93%C2%A0overview-of-all-emojis?node-id=0-1&t=JOl8zyKSxw2rFjD3-1).
 
 ## Face Emojis
 
