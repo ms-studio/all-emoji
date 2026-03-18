@@ -2,9 +2,16 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
   .noto-emoji-font {
   font-family: "Noto Emoji", sans-serif;
   font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+  .noto-color-emoji  {
+  font-family: "Noto Color Emoji", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 </style>
@@ -65,11 +72,76 @@
 🌍️🌎️🌏️🌐🗺️🗾🧭🏔️⛰️🛘🌋🗻🏕️🏖️🏜️🏝️🏞️🏟️🏛️🏗️🧱🪨🪵🛖🏘️🏚️🏠️🏡🏢🏣🏤🏥🏦🏨🏩🏪🏫🏬🏭️🏯🏰💒🗼🗽⛪️🕌🛕🕍⛩️🕋⛲️⛺️🌁🌃🏙️🌄🌅🌆🌇🌉♨️🎠🛝🎡🎢💈🎪
 </div>
 
-## Transportation, travel
+## Transportation and travel
 
 🚂🚃🚄🚅🚆🚇️🚈🚉🚊🚝🚞🚋🚌🚍️🚎🚐🚑️🚒🚓🚔️🚕🚖🚗🚘️🚙🛻🚚🚛🚜🏎️🏍️🛵🦽🦼🛺🚲️🛴🛹🛼🚏🛣️🛤️🛢️⛽️🛞🚨🚥🚦🛑🚧⚓️🛟⛵️🛶🚤🛳️⛴️🛥️🚢✈️🛩️🛫🛬🪂💺🚁🚟🚠🚡🛰️🚀🛸🛎️🧳
 
 <div class="noto-emoji-font">
 🚂🚃🚄🚅🚆🚇️🚈🚉🚊🚝🚞🚋🚌🚍️🚎🚐🚑️🚒🚓🚔️🚕🚖🚗🚘️🚙🛻🚚🚛🚜🏎️🏍️🛵🦽🦼🛺🚲️🛴🛹🛼🚏🛣️🛤️🛢️⛽️🛞🚨🚥🚦🛑🚧⚓️🛟⛵️🛶🚤🛳️⛴️🛥️🚢✈️🛩️🛫🛬🪂💺🚁🚟🚠🚡🛰️🚀🛸🛎️🧳
 </div>
+
+<div class="noto-color-emoji">
+🚂🚃🚄🚅🚆🚇️🚈🚉🚊🚝🚞🚋🚌🚍️🚎🚐🚑️🚒🚓🚔️🚕🚖🚗🚘️🚙🛻🚚🚛🚜🏎️🏍️🛵🦽🦼🛺🚲️🛴🛹🛼🚏🛣️🛤️🛢️⛽️🛞🚨🚥🚦🛑🚧⚓️🛟⛵️🛶🚤🛳️⛴️🛥️🚢✈️🛩️🛫🛬🪂💺🚁🚟🚠🚡🛰️🚀🛸🛎️🧳
+</div>
+
+## Time
+
+⌛️⏳️⌚️⏰️⏱️⏲️🕰️🕛️🕧️🕐️🕜️🕑️🕝️🕒️🕞️🕓️🕟️🕔️🕠️🕕️🕡️🕖️🕢️🕗️🕣️🕘️🕤️🕙️🕥️🕚️🕦️
+
+<div class="noto-emoji-font">
+⌛️⏳️⌚️⏰️⏱️⏲️🕰️🕛️🕧️🕐️🕜️🕑️🕝️🕒️🕞️🕓️🕟️🕔️🕠️🕕️🕡️🕖️🕢️🕗️🕣️🕘️🕤️🕙️🕥️🕚️🕦️
+</div>
+
+<div class="noto-color-emoji">
+⌛️⏳️⌚️⏰️⏱️⏲️🕰️🕛️🕧️🕐️🕜️🕑️🕝️🕒️🕞️🕓️🕟️🕔️🕠️🕕️🕡️🕖️🕢️🕗️🕣️🕘️🕤️🕙️🕥️🕚️🕦️
+</div>
+
+## Astronomy and weather
+
+🌑🌒🌓🌔🌕️🌖🌗🌘🌙🌚🌛🌜️🌡️☀️🌝🌞🪐⭐️🌟🌠🌌☁️⛅️⛈️🌤️🌥️🌦️🌧️🌨️🌩️🌪️🌫️🌬️🌀🌈🌂☂️☔️⛱️⚡️❄️☃️⛄️☄️🔥💧🌊
+
+<div class="noto-emoji-font">
+🌑🌒🌓🌔🌕️🌖🌗🌘🌙🌚🌛🌜️🌡️☀️🌝🌞🪐⭐️🌟🌠🌌☁️⛅️⛈️🌤️🌥️🌦️🌧️🌨️🌩️🌪️🌫️🌬️🌀🌈🌂☂️☔️⛱️⚡️❄️☃️⛄️☄️🔥💧🌊
+</div>
+
+<div class="noto-color-emoji">
+🌑🌒🌓🌔🌕️🌖🌗🌘🌙🌚🌛🌜️🌡️☀️🌝🌞🪐⭐️🌟🌠🌌☁️⛅️⛈️🌤️🌥️🌦️🌧️🌨️🌩️🌪️🌫️🌬️🌀🌈🌂☂️☔️⛱️⚡️❄️☃️⛄️☄️🔥💧🌊
+</div>
+
+## Celebrations
+
+🎃🎄🎆🎇🧨✨️🎈🎉🎊🎋🎍🎎🎏🎐🎑🧧🎀🎁🎗️🎟️🎫🎖️🏆️🏅🥇🥈🥉
+
+<div class="noto-emoji-font">
+🎃🎄🎆🎇🧨✨️🎈🎉🎊🎋🎍🎎🎏🎐🎑🧧🎀🎁🎗️🎟️🎫🎖️🏆️🏅🥇🥈🥉
+</div>
+
+<div class="noto-color-emoji">
+🎃🎄🎆🎇🧨✨️🎈🎉🎊🎋🎍🎎🎏🎐🎑🧧🎀🎁🎗️🎟️🎫🎖️🏆️🏅🥇🥈🥉
+</div>
+
+## Sports and games
+
+⚽️⚾️🥎🏀🏐🏈🏉🎾🥏🎳🏏🏑🏒🥍🏓🏸🥊🥋🥅⛳️⛸️🎣🤿🎽🎿🛷🥌🎯🪀🪁🔫🎱🔮🪄🎮️🕹️🎰🎲🧩🧸🪅🪩🪆♠️♥️♦️♣️♟️🃏🀄️🎴
+
+<div class="noto-emoji-font">
+⚽️⚾️🥎🏀🏐🏈🏉🎾🥏🎳🏏🏑🏒🥍🏓🏸🥊🥋🥅⛳️⛸️🎣🤿🎽🎿🛷🥌🎯🪀🪁🔫🎱🔮🪄🎮️🕹️🎰🎲🧩🧸🪅🪩🪆♠️♥️♦️♣️♟️🃏🀄️🎴
+</div>
+
+<div class="noto-color-emoji">
+⚽️⚾️🥎🏀🏐🏈🏉🎾🥏🎳🏏🏑🏒🥍🏓🏸🥊🥋🥅⛳️⛸️🎣🤿🎽🎿🛷🥌🎯🪀🪁🔫🎱🔮🪄🎮️🕹️🎰🎲🧩🧸🪅🪩🪆♠️♥️♦️♣️♟️🃏🀄️🎴
+</div>
+
+## Arts and clothing
+
+🎭️🖼️🎨🧵🪡🧶🪢👓️🕶️🥽🥼🦺👔👕👖🧣🧤🧥🧦👗👘🥻🩱🩲🩳👙👚🪭👛👜👝🛍️🎒🩴👞👟🥾🥿👠👡🩰👢🪮👑👒🎩🎓️🧢🪖⛑️📿💄💍💎
+
+<div class="noto-emoji-font">
+🎭️🖼️🎨🧵🪡🧶🪢👓️🕶️🥽🥼🦺👔👕👖🧣🧤🧥🧦👗👘🥻🩱🩲🩳👙👚🪭👛👜👝🛍️🎒🩴👞👟🥾🥿👠👡🩰👢🪮👑👒🎩🎓️🧢🪖⛑️📿💄💍💎
+</div>
+
+<div class="noto-color-emoji">
+🎭️🖼️🎨🧵🪡🧶🪢👓️🕶️🥽🥼🦺👔👕👖🧣🧤🧥🧦👗👘🥻🩱🩲🩳👙👚🪭👛👜👝🛍️🎒🩴👞👟🥾🥿👠👡🩰👢🪮👑👒🎩🎓️🧢🪖⛑️📿💄💍💎
+</div>
+
 
